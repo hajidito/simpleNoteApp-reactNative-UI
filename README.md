@@ -1,5 +1,4 @@
 # simpleNoteApp-reactNative-UI
-# simpleNoteApp-restfulApi
 
 ## Built With
 
