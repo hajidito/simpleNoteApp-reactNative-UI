@@ -1,4 +1,4 @@
-# simpleNoteApp-reactNative-UI
+# NoteApp-ReactNative-UI
 
 ## Built With
 
@@ -10,10 +10,6 @@
 ### 1. Install Dependencies
 ``` bash
 npm install
-npm install -g react-native-cli
-npm install --save react-navigation
-npm install --save react-native-gesture-handler
-npm install native-base --save
 ```
 
 ### 2. Run App
